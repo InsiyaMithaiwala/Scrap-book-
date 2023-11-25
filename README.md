@@ -8,11 +8,11 @@ Welcome to Scrap Book, a MERN (MongoDB, Express.js, React, Node.js) application 
 
 ##Getting Started Locally:
 
-1.Clone the repository: git clone [your-repo-url]
-2.Navigate to the project directory: cd scrap-book
-3.Install dependencies: npm install
-4.Start the application: npm start
-5.Open your browser and visit: [Link Text](http://localhost:3000)
+1. Clone the repository: git clone [[your-repo-url]](https://github.com/InsiyaMithaiwala/Scrap-book-)
+2. Navigate to the project directory: cd scrap-book
+3. Install dependencies: npm install
+4. Start the application: npm start
+5. Open your browser and visit: [Link Text](http://localhost:3000)
 
 
 **Begin curating your digital scrapbook locally with Scrap Book!**
