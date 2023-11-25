@@ -16,3 +16,4 @@ Welcome to Scrap Book, a MERN (MongoDB, Express.js, React, Node.js) application 
 
 
 **Begin curating your digital scrapbook locally with Scrap Book!**
+![image](https://github.com/InsiyaMithaiwala/Scrap-book-/assets/130983978/d886e320-4ad2-4b69-a422-13d62afefd36)
